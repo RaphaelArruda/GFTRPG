@@ -1,0 +1,15 @@
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.csproj.AssemblyReference.cache
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.AssemblyInfoInputs.cache
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.AssemblyInfo.cs
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.csproj.CoreCompileInputs.cache
+D:\Dev\GFTRPG\bin\Debug\net6.0\GFTRPG.exe
+D:\Dev\GFTRPG\bin\Debug\net6.0\GFTRPG.deps.json
+D:\Dev\GFTRPG\bin\Debug\net6.0\GFTRPG.runtimeconfig.json
+D:\Dev\GFTRPG\bin\Debug\net6.0\GFTRPG.dll
+D:\Dev\GFTRPG\bin\Debug\net6.0\ref\GFTRPG.dll
+D:\Dev\GFTRPG\bin\Debug\net6.0\GFTRPG.pdb
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.dll
+D:\Dev\GFTRPG\obj\Debug\net6.0\ref\GFTRPG.dll
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.pdb
+D:\Dev\GFTRPG\obj\Debug\net6.0\GFTRPG.genruntimeconfig.cache
